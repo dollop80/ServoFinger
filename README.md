@@ -5,7 +5,7 @@ The Arduino Pro mini is used and to minimize connections the pot is connected to
 Servo is connected to SERVO_PIN which is recommended to be D0, beause the servo is pluged to programming (UART) port to have GND, VCC and PWM pin on it 
 
 ## How it looks like:
-![ServoFinger](http://i.piccy.info/i9/675f4fa836f4f133fabcec57710e4b15/1586668419/126758/1372417/IMG_20200407_212421.jpg | width=200)
+![ServoFinger](http://i.piccy.info/i9/675f4fa836f4f133fabcec57710e4b15/1586668419/126758/1372417/IMG_20200407_212421.jpg)
 
 ## What do you need:
 - Arduino Pro Mini
