@@ -22,9 +22,9 @@
 #define SRV_ON_TIME 2   // click time, [second]
 
 #ifdef DEBUG
-  #define SERVO_PIN 0
-#else
   #define SERVO_PIN 8
+#else
+  #define SERVO_PIN 0
 #endif
 
 #define LED_PIN     13
